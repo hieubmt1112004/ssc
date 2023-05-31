@@ -18,3 +18,10 @@ Bài 3 : **  Friendly Numbers
 ![image](https://github.com/hieubmt1112004/ssc/assets/125638408/840ab8d4-bb90-4917-a553-3eed299af73d)
 tóm tắt đề : nhập 1 mảng số , các số nhỏ hơn trong mảng phải là ước của số lớn nhất nếu điều kiện đúng cout<<" Friends " ; và ngược lại 
 ----Code :  Đã up 
+
+
+Bài 4 **Extraordinarily Nice Numbers
+![image](https://github.com/hieubmt1112004/ssc/assets/125638408/678a4fc7-a0fd-4bb5-87ca-9f39b84bb127)
+tóm tắt đề : ở đây chúng ta phải tìm ra số "vô cùng đẹp ". Số vô cùng đẹp ở đây được định nghĩa là ước chẵn = ước lẻ của nó 
+----code : đã up 
+
