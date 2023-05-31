@@ -25,3 +25,11 @@ Bài 4 **Extraordinarily Nice Numbers
 tóm tắt đề : ở đây chúng ta phải tìm ra số "vô cùng đẹp ". Số vô cùng đẹp ở đây được định nghĩa là ước chẵn = ước lẻ của nó 
 ----code : đã up 
 
+
+Bài 5 **Reverse It!
+![image](https://github.com/hieubmt1112004/ssc/assets/125638408/7997ae08-3521-4f80-8869-db0f9f3c9c83)
+tóm tắt : (Bài lz làm tốn tgian vcl ) ở đây chúng ta phải đảo ngược số ab --> ba kiểu z . Với số âm -ab --> -ba , với trường hợp đặc biệt có số 0 ở đầu hoặc cuối khi chúng ta đảo phải loại bỏ số 0 ví dụ: 01234560 --> 654321
+----code : đã up 
+
+
+
